@@ -181,3 +181,25 @@ body {
         opacity: 0;
     }
 }
+
+@media (max-width: 450px ) {
+    .clock {
+    width: 350px;
+    height: 350px;
+    }
+
+    .circle {
+        width: 220px;
+        height: 220px;
+    }
+
+    .circle2 {
+        width: 175px;
+        height: 175px;
+    }
+    
+    .circle3 {
+        width: 120px;
+        height: 120px;
+    }
+}
